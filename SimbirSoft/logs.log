@@ -1,0 +1,33 @@
+2021-10-17 23:09:46 [main] INFO  ru.simbir.soft.controller.ControllerURL - Creating constructor
+2021-10-17 23:10:25 [main] INFO  ru.simbir.soft.controller.ControllerURL - Starting program process
+2021-10-17 23:10:30 [main] INFO  ru.simbir.soft.controller.ControllerURL - Updating Map with 100 size and count of operation 127
+2021-10-17 23:10:56 [main] INFO  ru.simbir.soft.controller.ControllerURL - Updating Map with 100 size and count of operation 121
+2021-10-17 23:11:17 [main] INFO  ru.simbir.soft.controller.ControllerURL - Updating Map with 100 size and count of operation 134
+2021-10-17 23:11:37 [main] INFO  ru.simbir.soft.controller.ControllerURL - Updating Map with 100 size and count of operation 125
+2021-10-17 23:12:11 [main] INFO  ru.simbir.soft.controller.ControllerURL - Updating Map with 100 size and count of operation 120
+2021-10-17 23:12:36 [main] INFO  ru.simbir.soft.controller.ControllerURL - Updating Map with 100 size and count of operation 115
+2021-10-17 23:13:02 [main] INFO  ru.simbir.soft.controller.ControllerURL - Updating Map with 100 size and count of operation 123
+2021-10-17 23:13:34 [main] INFO  ru.simbir.soft.controller.ControllerURL - Updating Map with 100 size and count of operation 113
+2021-10-17 23:14:00 [main] INFO  ru.simbir.soft.controller.ControllerURL - Updating Map with 100 size and count of operation 119
+2021-10-17 23:14:21 [main] INFO  ru.simbir.soft.controller.ControllerURL - Updating Map with 100 size and count of operation 125
+2021-10-17 23:14:42 [main] INFO  ru.simbir.soft.controller.ControllerURL - Updating Map with 100 size and count of operation 147
+2021-10-17 23:15:21 [main] INFO  ru.simbir.soft.controller.ControllerURL - Last save from map with 100 size
+2021-10-17 23:47:18 [main] INFO  ru.simbir.soft.controller.ControllerURL - Creating constructor
+2021-10-17 23:47:22 [main] INFO  ru.simbir.soft.controller.ControllerURL - Starting program process
+2021-10-17 23:47:32 [main] INFO  ru.simbir.soft.dao.WordsRepositoryImpl - starting saving words
+2021-10-17 23:48:41 [main] INFO  ru.simbir.soft.dao.WordsRepositoryImpl - finish saving words
+2021-10-17 23:48:41 [main] INFO  ru.simbir.soft.controller.ControllerURL - Last save from map with 433 size
+2021-10-17 23:48:41 [main] INFO  ru.simbir.soft.controller.ControllerURL - Finishing program process
+2021-10-17 23:51:28 [main] INFO  ru.simbir.soft.controller.ControllerURL - Creating constructor
+2021-10-17 23:51:30 [main] INFO  ru.simbir.soft.controller.ControllerURL - Starting program process
+2021-10-17 23:51:32 [main] INFO  ru.simbir.soft.dao.WordsRepositoryImpl - starting saving words
+2021-10-17 23:52:32 [main] WARN  ru.simbir.soft.dao.WordsRepositoryImpl - word has more max length! word - TraditionalCzechDanishDutchEnglishEstonianFinnishFrenchGermanGreekHebrewHungarianIcelandicItalianJapaneseLatvianLithuanianNorwegianPolishPortugueseRomanianRussianSpanishSwedish
+2021-10-17 23:52:39 [main] INFO  ru.simbir.soft.dao.WordsRepositoryImpl - finish saving words
+2021-10-17 23:52:39 [main] INFO  ru.simbir.soft.controller.ControllerURL - Last save from map with 445 size
+2021-10-17 23:52:39 [main] INFO  ru.simbir.soft.controller.ControllerURL - Finishing program process
+2021-10-18 20:21:49 [main] INFO  ru.simbir.soft.controller.ControllerURL - Starting program process
+2021-10-18 20:21:57 [main] INFO  ru.simbir.soft.controller.ControllerURL - Last save from map with 777 size
+2021-10-18 20:21:57 [main] INFO  ru.simbir.soft.dao.WordsRepositoryImpl - starting saving words
+2021-10-18 20:23:46 [main] INFO  ru.simbir.soft.dao.WordsRepositoryImpl - finish saving words
+2021-10-18 20:23:46 [main] INFO  ru.simbir.soft.controller.ControllerURL - Finishing program process
+2021-10-18 20:51:53 [main] ERROR ru.simbir.soft.services.HTMLParser - ERROR with urlhttps://sadsad/sadfsadsa
